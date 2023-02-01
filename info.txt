@@ -1,0 +1,26 @@
+yarn init -y
+yarn add express
+yarn add @types/express -D
+yarn add typescript -D
+yarn tsc --init             -> configuracao ts
+yarn add ts-node-dev -D     -> ajudar a entender import export
+
+
+yarn add typeorm reflect-metadata sqlite3  -> dependencias para banco de dados
+#file ormconfig.json -> configuração do banco de dados
+
+#file package.json script typeorm -> realizars as migrations
+
+yarn typeorm migration:create -n CreateSettings -> criar as tables
+yarn typeorm migration:run                      -> roda as tables
+
+yarn add uuid
+yarn add @types/uuid -D   
+
+
+yarn add socket.io
+yarn add @types/socket.io -D 
+yarn add ejs
+yarn add socket.io-client
+yarn typeorm migration:create -n CreateConnections
+yarn typeorm migration:run

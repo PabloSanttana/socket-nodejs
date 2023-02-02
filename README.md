@@ -16,11 +16,24 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Layout
 
-![Layout](https://github.com/PabloSanttana/LojaPlaystation5/blob/master/layoutPlay.png)
+#### tela Admin
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img1.png)
 
-### Gif do Aplicativo em execução 
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img6.png)
 
-![gif-App](https://github.com/PabloSanttana/LojaPlaystation5/blob/master/videoPlay.gif)
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img7.png)
+
+#### tela client
+
+
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img5.png)
+
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img2.png)
+
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img3.png)
+
+![Layout](https://github.com/PabloSanttana/socket-nodejs/blob/master/images/img4.png)
+
 
 
 #### mais informação

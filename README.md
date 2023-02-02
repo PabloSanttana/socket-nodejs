@@ -12,6 +12,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Nodejs](https://nodejs.org/en/)      
 - [typeorm.io](https://typeorm.io/)
 - [socket.io](https://socket.io/)
+- [Html-Css]()
+
+###  🛠 Linguagens Utilizadas no Desenvolvimento 
+
+- [JavaScript](https://javascript.info/document)      
+- [TypeScript](https://www.typescriptlang.org/docs/)
 
 
 ### Layout

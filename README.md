@@ -1,7 +1,7 @@
 
 <h1 align="center">Socket com NodeJS</h1>
 <p align="center">🚀 Projeto de chat preciso de ajuda.</p>
-<p align="center">Desenvolvido durante um evento gratuito rocketseat</p>
+<p align="center">Desenvolvido durante um evento gratuito rocketseat NlW#5</p>
 
 Projeto desenvolvido por <strong> Guilherme Pablo De Santana Maciel </strong> 
 
